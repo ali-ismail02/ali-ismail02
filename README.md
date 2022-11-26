@@ -1,6 +1,6 @@
 ![MasterHead](images/readme.jpeg)
 <h1 align="center">Hi 👋, I'm Ali Ismail</h1>
-- 🔭 I’m currently working on **React Native Mobile Application (Wen Wasel)**<br><br>-💬 Ask me about **Laravel, React, React Native, C, JS, NodeJS, SQL, PHP and HTML**<br><br>- 📫 How to reach me **alii.ismail02@gmail.com**
+- 🔭 I’m currently working on React Native Mobile Application (Wen Wasel)<br><br>-💬 Ask me about Laravel, React, React Native, C, JS, NodeJS, SQL, PHP and HTML<br><br>- 📫 How to reach me alii.ismail02@gmail.com
 
 
 ## 🌐 Socials:
